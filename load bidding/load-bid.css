@@ -1,0 +1,12 @@
+.nav{
+    background-color: rgb(56, 235, 12);
+    width: inherit;
+}
+.main{
+    background-color: aqua;
+    width: inherit;
+}
+.footer{
+    background-color: darkslategrey;
+    width: inherit;
+}
